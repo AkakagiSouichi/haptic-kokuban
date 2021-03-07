@@ -1,1 +1,3 @@
-# haptic-kokuban
+phantomで文字を書くプログラム
+server側から起動
+client
